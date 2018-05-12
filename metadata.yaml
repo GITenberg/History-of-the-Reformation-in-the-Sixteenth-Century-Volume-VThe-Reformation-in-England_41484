@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '40857'
     url: http://www.gutenberg.org/2009/agents/40857
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41484#History-of-the-Reformation-in-the-Sixteenth-Century-Volume-VThe-Reformation-in-England
 gutenberg_issued: '2012-11-25'
 gutenberg_type: Text
 identifiers:
